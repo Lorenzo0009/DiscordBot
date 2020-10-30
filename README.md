@@ -61,5 +61,7 @@
 !c lutar [Para lutar contra algu&eacute;m!]<br />
 !c compra [comprar item]<br />
 !c buy [comprar item]</p>
-
 <address>&nbsp;</address>
+
+<img src="https://prnt.sc/v9uqad">
+
