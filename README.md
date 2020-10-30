@@ -8,56 +8,58 @@
 </p>
 
 # Comandos
+<p>!c c [Para entrar na dungeon e ca&ccedil;ar]</p>
 
-!c c [Para entrar na dungeon e caçar]
-!c help [Para ver os comandos]
-!c addp [Adicionar dinheiro para uma pessoa especifica]
-!c addbal [Adicionar dinheiro para você]
-!c caçar [Entrar em uma caçada]
-!c cacar [Entrar em uma caçada]
-!c cl [Ver sua classe]
-!c classe [Ver sua classe]
-!c comprar [Comprar algum item]
-!c escolher [Escolha sua classe]
-!c clearchat [Limpar o Chat]
-!c cc [Limpar o Chat]
-!c clearall [Limpar o Chat]
-!c isca [Ver suas iscas]
-!c iscas [Ver suas iscas]
-!c ranking [Rank de dinheiro]
-!c rank [Rank de dinheiro]
-!c lb [Rank de dinheiro]
-!c leaderboard [Rank de dinheiro]
-!c level [Ver seu level]
-!c lvl [Ver seu level]
-!c p [Pescar, precisa comprar isca]
-!c pescar [Pescar, precisa comprar isca]
-!c profile [Veja seu perfil no bot]
-!c perfil [Veja seu perfil no bot]
-!c remp [Remover dinheiro de uma determinada pessoa]
-!c rembal [remover dinheiro]
-!c rm [remover dinheiro]
-!c rem [remover dinheiro]
-!c remove [remover dinheiro]
-!c rb [remover dinheiro]
-!c balance [ver seu dinheiro]
-!c b [ver seu dinheiro]
-!c money [ver seu dinheiro]
-!c coins [ver seu dinheiro]
-!c dinheiro [ver seu dinheiro]
-!c saldo [ver seu dinheiro]
-!c versaldo [de uma pessoa especifica]
-!c moneyde [de uma pessoa especifica]
-!c say [criar um anuncio]
-!c warn [criar um anuncio]
-!c bc [criar um anuncio]
-!c broadcast [criar um anuncio]
-!c anunciar [criar um anuncio]
-!c shop [Comando para ver os items da loja]
-!c loja [Comando para ver os items da loja]
-!c vida [Ver sua vida]
-!c life [Ver sua vida]
-!c xp [Ver seu xp]
-!c lutar [Para lutar contra alguém!]
-!c compra [comprar item]
-!c buy [comprar item]
+<p>!c help [Para ver os comandos]<br />
+!c addp [Adicionar dinheiro para uma pessoa especifica]<br />
+!c addbal [Adicionar dinheiro para voc&ecirc;]<br />
+!c ca&ccedil;ar [Entrar em uma ca&ccedil;ada]<br />
+!c cacar [Entrar em uma ca&ccedil;ada]<br />
+!c cl [Ver sua classe]<br />
+!c classe [Ver sua classe]<br />
+!c comprar [Comprar algum item]<br />
+!c escolher [Escolha sua classe]<br />
+!c clearchat [Limpar o Chat]<br />
+!c cc [Limpar o Chat]<br />
+!c clearall [Limpar o Chat]<br />
+!c isca [Ver suas iscas]<br />
+!c iscas [Ver suas iscas]<br />
+!c ranking [Rank de dinheiro]<br />
+!c rank [Rank de dinheiro]<br />
+!c lb [Rank de dinheiro]<br />
+!c leaderboard [Rank de dinheiro]<br />
+!c level [Ver seu level]<br />
+!c lvl [Ver seu level]<br />
+!c p [Pescar, precisa comprar isca]<br />
+!c pescar [Pescar, precisa comprar isca]<br />
+!c profile [Veja seu perfil no bot]<br />
+!c perfil [Veja seu perfil no bot]<br />
+!c remp [Remover dinheiro de uma determinada pessoa]<br />
+!c rembal [remover dinheiro]<br />
+!c rm [remover dinheiro]<br />
+!c rem [remover dinheiro]<br />
+!c remove [remover dinheiro]<br />
+!c rb [remover dinheiro]<br />
+!c balance [ver seu dinheiro]<br />
+!c b [ver seu dinheiro]<br />
+!c money [ver seu dinheiro]<br />
+!c coins [ver seu dinheiro]<br />
+!c dinheiro [ver seu dinheiro]<br />
+!c saldo [ver seu dinheiro]<br />
+!c versaldo [de uma pessoa especifica]<br />
+!c moneyde [de uma pessoa especifica]<br />
+!c say [criar um anuncio]<br />
+!c warn [criar um anuncio]<br />
+!c bc [criar um anuncio]<br />
+!c broadcast [criar um anuncio]<br />
+!c anunciar [criar um anuncio]<br />
+!c shop [Comando para ver os items da loja]<br />
+!c loja [Comando para ver os items da loja]<br />
+!c vida [Ver sua vida]<br />
+!c life [Ver sua vida]<br />
+!c xp [Ver seu xp]<br />
+!c lutar [Para lutar contra algu&eacute;m!]<br />
+!c compra [comprar item]<br />
+!c buy [comprar item]</p>
+
+<address>&nbsp;</address>
